@@ -5,8 +5,8 @@
 mock假数据
 
 #### 技术实现
-vue
-vuex
-vue-router
-better-scroll
+vue <br/>
+vuex<br/>
+vue-router<br/>
+better-scroll<br/>
 vue-awesome-swiper
